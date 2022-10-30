@@ -1,0 +1,22 @@
+
+.sunny {
+    color: #ffc93c;
+    font-size: 30px;
+  }
+  
+  .card {
+    margin-top: 50px;
+    background-color: #ffebbb;
+  }
+  
+  .current {
+    font-size: 40px;
+  }
+  
+  .celsius {
+    position: relative;
+    bottom: 17px;
+  
+    font-size: 20px;
+  }
+  
